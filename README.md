@@ -5,22 +5,6 @@ This repository contains the complete submission for the AI Ethics assignment, c
 
 ---
 
-## 📁 Repository Structure
-
-```
-assignment/
-│
-├── ai_ethics_assignment.ipynb          # Part 3: COMPAS Dataset Bias Audit (Jupyter Notebook)
-├── AI_Ethics_Assignment_Parts_1_2_4.md # Parts 1, 2, and 4: Written Answers
-├── requirements.txt                     # Python dependencies
-├── README.md                           # This file
-│
-└── Generated Files (after running notebook):
-    ├── fairness_analysis.png           # Fairness metrics visualizations
-    └── confusion_matrices.png          # Confusion matrices by group
-```
-
----
 
 ## 🚀 Setup Instructions
 
@@ -64,13 +48,11 @@ assignment/
 ## 📋 Assignment Components
 
 ### Part 1: Theoretical Understanding (30%)
-- **Location**: `AI_Ethics_Assignment_Parts_1_2_4.md` (Sections 1-2)
 - **Content**:
   - Short answer questions on algorithmic bias, transparency/explainability, and GDPR
   - Ethical principles matching exercise
 
 ### Part 2: Case Study Analysis (40%)
-- **Location**: `AI_Ethics_Assignment_Parts_1_2_4.md` (Section 3)
 - **Content**:
   - Case 1: Amazon's Biased Hiring Tool
     - Bias source identification
@@ -81,7 +63,6 @@ assignment/
     - Policy recommendations
 
 ### Part 3: Practical Audit (25%)
-- **Location**: `ai_ethics_assignment.ipynb`
 - **Content**:
   - COMPAS dataset bias analysis using AI Fairness 360
   - Fairness metrics computation
@@ -90,7 +71,6 @@ assignment/
   - 300-word summary report
 
 ### Part 4: Ethical Reflection (5%)
-- **Location**: `AI_Ethics_Assignment_Parts_1_2_4.md` (Section 4)
 - **Content**:
   - Personal reflection on ensuring ethical AI principles in projects
 
@@ -180,26 +160,6 @@ The COMPAS bias audit reveals:
 
 ---
 
-## 👥 Group Work
-
-This assignment is designed for peer group collaboration. Ensure:
-
-- All group members contribute to the analysis
-- Code is shared and reviewed
-- Written answers reflect group discussion
-- GitHub repository is properly shared among group members
-
----
-
-## 📝 Submission Checklist
-
-- [x] Jupyter Notebook with COMPAS bias audit (`ai_ethics_assignment.ipynb`)
-- [x] Written answers PDF (convert `AI_Ethics_Assignment_Parts_1_2_4.md` to PDF)
-- [x] Code shared on GitHub (this repository)
-- [ ] Peer reviews completed
-- [ ] Bonus task (optional - separate document)
-
----
 
 ## 🆘 Troubleshooting
 
@@ -224,20 +184,4 @@ This assignment is designed for peer group collaboration. Ensure:
 
 ---
 
-## 📧 Contact & Support
-
-For questions about this assignment:
-- Review the assignment guidelines
-- Consult AI Fairness 360 documentation
-- Refer to course materials on AI ethics
-
----
-
-## 📄 License
-
-This assignment is for educational purposes only. The COMPAS dataset is provided by ProPublica for research and analysis.
-
----
-
-**Good luck with your assignment! Build AI that's fair, transparent, and human-centric! 🌟**
 
